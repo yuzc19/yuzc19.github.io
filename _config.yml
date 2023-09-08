@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://desh2608.github.io"
+url: "https://yuzc19.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Desh Raj
+title: Zichun Yu
 
 # Short description of your site
 description: Personal Website
@@ -25,13 +25,13 @@ description: Personal Website
 navbar-links:
   Home: ""
   Publications: "publications"
-  Blog: "blog"
-  Talks: "talks"
+  # Blog: "blog"
+  # Talks: "talks"
   Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/static/img/desh_new.jpeg"
+avatar: "/static/img/avatar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -42,11 +42,10 @@ avatar: "/static/img/desh_new.jpeg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Desh Raj
-  email: "draj@cs.jhu.edu"
-  github: desh2608    # eg. daattali
-  linkedin: rdesh26
-  twitter: rdesh26
+  name: Zichun Yu
+  email: "zichunyu@andrew.cmu.edu"
+  github: yuzc19 # eg. daattali
+  twitter: Zichun Yu
 
 # Select which links to show in the footer
 footer-links-active:
@@ -75,14 +74,14 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "desh2608.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "yuzc19.github.io" # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "desh2608-github-io"
+disqus: "yuzc19-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-121781547-1"
+google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
@@ -113,16 +112,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # all files
     values:
       layout: "page"
@@ -149,8 +146,8 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
-  media: 'img'
+  rooturl: "_posts"
+  media: "img"
   ignore:
     - 404.html
     - LICENSE
@@ -205,4 +202,4 @@ gems:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-theme: 
+theme:
