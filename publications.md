@@ -10,16 +10,23 @@ You can also browse my <a href="https://scholar.google.co.jp/citations?view_op=l
 
 - **Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In**
   **Zichun Yu**, Chenyan Xiong, Shi Yu, Zhiyuan Liu
+
   *ACL 2023*
+
   [Paper](https://arxiv.org/pdf/2305.17331.pdf){: .btn}
+
   [Code](https://github.com/OpenMatch/Augmentation-Adapted-Retriever){: .btn}
 
 **2022**
 
 - **Automatic Label Sequence Generation for Prompting Sequence-to-sequence Models**  
+
   **Zichun Yu**, Tianyu Gao, Zhengyan Zhang, Yankai Lin, Zhiyuan Liu, Maosong Sun, Jie Zhou
+
   *COLING 2022*
+
   [Paper](https://arxiv.org/pdf/2209.09401.pdf){: .btn}
+  
   [Code](https://github.com/thunlp/Seq2Seq-Prompt){: .btn}
 
 <!--
