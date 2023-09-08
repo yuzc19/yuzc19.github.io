@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.co.jp/citations?view_op=list_works&hl=zh-CN&user=wWkTkocAAAAJ&gmla=AP6z3ObzCeJyQwaNZ5vQxgP_eyY-W58YVIWaket86URXI2uAHaG_Tm0rpc9K7DWWqhNnBpA5aC1JPjWxbUVR4JX0B5NfIpnW89ca6W1320acyqDCtkk" target="_blank">Google Scholar profile</a>.
+You can also browse my <a href="https://scholar.google.com/citations?user=wWkTkocAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 <br />
 
 **2023**
