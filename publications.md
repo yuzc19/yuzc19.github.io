@@ -9,7 +9,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=wWkTko
 **2023**
 
 - **An In-depth Look at Gemini's Language Abilities**  
-  Syeda Nahida Akter$^*$, **Zichun Yu**$^*$, Aashiq Muhamed$^*$, Tianyue Ou$^*$, Alex Bäuerle, Ángel Alexander Cabrera, Krish Dholakia, Chenyan Xiong, Graham Neubig  
+  Syeda Nahida Akter\*, **Zichun Yu**\*, Aashiq Muhamed\*, Tianyue Ou\*, Alex Bäuerle, Ángel Alexander Cabrera, Krish Dholakia, Chenyan Xiong, Graham Neubig  
   _Preprint_  
   [Paper](https://arxiv.org/pdf/2312.11444.pdf){: .btn}
   [Code](https://github.com/neulab/gemini-benchmark){: .btn}
