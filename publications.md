@@ -9,7 +9,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=wWkTko
 **2024**
 
 - **MATES: Model-Aware Data Selection for Efficient Pretraining with Data Influence Models**  
-  **Zichun Yu**, Spandan Das, Chenyan Xiong
+  **Zichun Yu**, Spandan Das, Chenyan Xiong  
   _Preprint_  
   [Paper](https://arxiv.org/pdf/2406.06046){: .btn}
   [Code](https://github.com/cxcscmu/MATES){: .btn}
