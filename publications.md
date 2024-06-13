@@ -6,6 +6,14 @@ title: Publications
 You can also browse my <a href="https://scholar.google.com/citations?user=wWkTkocAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 <br />
 
+**2024**
+
+- **MATES: Model-Aware Data Selection for Efficient Pretraining with Data Influence Models**  
+  **Zichun Yu**, Spandan Das, Chenyan Xiong
+  _Preprint_  
+  [Paper](https://arxiv.org/pdf/2406.06046){: .btn}
+  [Code](https://github.com/cxcscmu/MATES){: .btn}
+
 **2023**
 
 - **An In-depth Look at Gemini's Language Abilities**  
