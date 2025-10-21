@@ -6,6 +6,20 @@ title: Publications
 You can also browse my <a href="https://scholar.google.com/citations?user=wWkTkocAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 <br />
 
+**2025**
+
+- **Group-Level Data Selection for Efficient Pretraining**  
+  **Zichun Yu**, Fei Peng, Jie Lei, Arnold Overwijk, Wen-tau Yih, Chenyan Xiong  
+  _NeurIPS 2025_  
+  [Paper](https://arxiv.org/pdf/2502.14709){: .btn}
+  [Code](https://github.com/facebookresearch/Group-MATES){: .btn}
+
+- **Montessori-Instruct: Generate Influential Training Data Tailored for Student Learning**  
+  Xiaochuan Li, **Zichun Yu**, Chenyan Xiong  
+  _ICLR 2025_  
+  [Paper](https://arxiv.org/pdf/2410.14208){: .btn}
+  [Code](https://github.com/cxcscmu/Montessori-Instruct){: .btn}
+
 **2024**
 
 - **MATES: Model-Aware Data Selection for Efficient Pretraining with Data Influence Models**  
