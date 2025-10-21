@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Publications
+title: Selected Publications
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=wWkTkocAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
+For a complete list of my publications, please visit my <a href="https://scholar.google.com/citations?user=wWkTkocAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 <br />
 
 **2025**
