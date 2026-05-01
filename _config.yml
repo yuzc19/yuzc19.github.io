@@ -128,6 +128,10 @@ defaults:
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
 
+# Include folders that start with an underscore in the production site
+include:
+  - _papers
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
