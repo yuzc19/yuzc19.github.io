@@ -6,6 +6,14 @@ title: Selected Publications
 For a complete list of my publications, please visit my <a href="https://scholar.google.com/citations?user=wWkTkocAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 <br />
 
+**2026**
+- 
+
+- **RePro: Training Language Models to Faithfully Recycle the Web for Pretraining**  
+  **Zichun Yu** and Chenyan Xiong  
+  _ICML 2026_  
+  [Paper](https://arxiv.org/pdf/2510.10681){: .btn}
+
 **2025**
 
 - **Group-Level Data Selection for Efficient Pretraining**  
