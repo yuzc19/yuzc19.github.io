@@ -11,13 +11,15 @@ For a complete list of my publications, please visit my <a href="https://scholar
 
 - **Generating Pretraining Tokens from Organic Data for Data-Bound Scaling**  
   **Zichun Yu** and Chenyan Xiong  
-  _Preprint_  
-  [Paper](_papers/SynPro.pdf){: .btn}
+  _COLM 2026_  
+  [Paper](https://arxiv.org/pdf/2605.17849){: .btn}
+  [Code](https://github.com/cxcscmu/SynPro){: .btn}
 
 - **RePro: Training Language Models to Faithfully Recycle the Web for Pretraining**  
   **Zichun Yu** and Chenyan Xiong  
   _ICML 2026_  
   [Paper](https://arxiv.org/pdf/2510.10681){: .btn}
+  [Code](https://github.com/cxcscmu/RePro){: .btn}
 
 **2025**
 
