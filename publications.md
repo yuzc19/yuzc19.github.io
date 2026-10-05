@@ -9,6 +9,14 @@ For a complete list of my publications, please visit my <a href="https://scholar
 **2026**
 -
 
+- **Unified Scraping and Cleaning of Web Data for Effective LLM Pretraining**  
+  **Zichun Yu**, Jiarui Yan, Shlok Sanghvi, Nihar Atri, Chenyan Xiong  
+  _Preprint_  
+  _ReScraper unifies web scraping and cleaning in a single 0.6B model that reads rendered pages and decides whether to keep, edit, delete, or rewrite each piece of content, outperforming both heuristic and existing model-based approaches across pretraining scales._  
+  [Paper](https://arxiv.org/pdf/2609.34287){: .btn}
+  [Code](https://github.com/cxcscmu/ReScraper){: .btn}
+  [Project](https://cxcscmu.github.io/ReScraper){: .btn}
+
 - **Generating Pretraining Tokens from Organic Data for Data-Bound Scaling**  
   **Zichun Yu** and Chenyan Xiong  
   _COLM 2026_  
